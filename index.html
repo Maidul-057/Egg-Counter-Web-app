@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mess Egg Counter</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Mess Egg Counter</h1>
+
+        <div class="display-box">
+            <p>Remaining Eggs</p>
+            <h2 id="eggCount">0</h2>
+        </div>
+
+        <div class="input-group">
+            <input type="number" id="addEggInput" placeholder="Add eggs">
+            <button onclick="addEggs()">Add Eggs</button>
+        </div>
+
+        <div class="input-group">
+            <input type="number" id="useEggInput" placeholder="Use eggs">
+            <button onclick="useEggs()">Consume Eggs</button>
+        </div>
+
+        <button class="reset-btn" onclick="resetEggs()">Reset Counter</button>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

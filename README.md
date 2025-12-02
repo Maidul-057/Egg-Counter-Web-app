@@ -8,11 +8,8 @@ The count is automatically saved in your browser — even if you close or reopen
 
 ✔️ Add Eggs                                                                                                                                                                                                    
 ✔️ Consume (Use) Eggs                                                                                                                                                                                           
-✔️ Show Remaining Eggs
-✔️ Auto-save using LocalStorage
-✔️ Clean UI
-✔️ Works offline
-✔️ Light-weight (only HTML, CSS, JS)
+✔️ Show Remaining Eggs                                                                                                                                                                                           
+✔️ Auto-save using LocalStorage                                                                                                                                                                                    ✔️ Clean UI                                                                                                                                                                                                        ✔️ Works offline                                                                                                                                                                                                  ✔️ Light-weight (only HTML, CSS, JS)
 
 🛠️ Technologies Used
 
